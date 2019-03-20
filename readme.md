@@ -1,21 +1,20 @@
-# Lumen PHP Framework
+pertama tama langkah awal membuat aplikasi yaitu dengan cara menginstal vue dengan cara 
+$ npm install -g vue-cli
+$ vue init webpack gudang
+$ cd gudang
 
-[![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
-[![Total Downloads](https://poser.pugx.org/laravel/lumen-framework/d/total.svg)](https://packagist.org/packages/laravel/lumen-framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/lumen-framework/v/stable.svg)](https://packagist.org/packages/laravel/lumen-framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/lumen-framework/v/unstable.svg)](https://packagist.org/packages/laravel/lumen-framework)
-[![License](https://poser.pugx.org/laravel/lumen-framework/license.svg)](https://packagist.org/packages/laravel/lumen-framework)
 
-Laravel Lumen is a stunningly fast PHP micro-framework for building web applications with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Lumen attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as routing, database abstraction, queueing, and caching.
+sesuaikan dengan nama projek yang akan di gunakan jika sudah mengikuti cara di atas ikuti cara yang ada di powerpoint 
+jangan lupa menginstal 
 
-## Official Documentation
+npm install axios
 
-Documentation for the framework can be found on the [Lumen website](https://lumen.laravel.com/docs).
+agar aplikasi dapat berjalan
 
-## Security Vulnerabilities
+jika sudah isi data yang akan di isi data nya agar dapat di gunakan
 
-If you discover a security vulnerability within Lumen, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+jika sudah run aplikasi dengan cara menggunakan postman
 
-## License
+dan jika cara itu berhasil silahkan ketikan di cmd npm run dev dan aplikasi akan berjalan
 
-The Lumen framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+aplikasi ini adalah aplikasi gudang yang gunanya mengecek nama barang dan stok barang pengguna dapat menambahkan,menghapus, dan melihat data yang sudah ada
